@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    color:fuchsia;
+    font-family: Times New Roman;
+    border: 3px solid black;
+    width:370px;
+    border-radius: 50px;
+    padding: 10px;
+    position: relative;
+    left: 380px;
+}
+
+img {
+    width: 200px;
+}
+
+h1,
+h2,
+h3,
+dt,
+p {
+    color: black;
+    font-size: 30px;
+}
+
+.footer {
+    background-image: url('chase\ value\ 2.jpg');
+    background-repeat: repeat;
+    color:yellow;
+    font-size: 20px;
+    
+}
+
+.style1css {
+    list-style-position: outside;
+    list-style-type: disc;
+
+}
+
+.style2css {
+    list-style-position: outside;
+    list-style-type: square;
+}
+
+p {
+    text-decoration: underline dotted;
+}
